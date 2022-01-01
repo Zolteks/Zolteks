@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on game dev
 - 📫 How to reach me : 
+
 Itch : https://zoltek-s.itch.io/oji
+
 Discord : Zoltek_s#5839
 
 <!---
