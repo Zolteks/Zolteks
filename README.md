@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zolteks
-- 👀 I’m interested in ...
+- 👀 I’m interested in video games
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on game dev
 - 📫 How to reach me : 
