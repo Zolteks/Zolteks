@@ -6,7 +6,7 @@
 
 Itch : https://zoltek-s.itch.io/oji
 
-Discord : Zoltek_s#5839
+Discord : hexanicus
 
 <!---
 Zolteks/Zolteks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
